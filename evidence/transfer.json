@@ -1,0 +1,24 @@
+[
+  {
+    "model": "stories15m",
+    "status": "complete",
+    "scanned": 627,
+    "total_starts": 627,
+    "threshold": 11,
+    "peak": 1.79316,
+    "v4": false,
+    "chain": false,
+    "alarm": false
+  },
+  {
+    "model": "canary135m",
+    "status": "incomplete",
+    "scanned": 344,
+    "total_starts": 1471,
+    "threshold": 11,
+    "peak": null,
+    "v4": false,
+    "chain": null,
+    "alarm": null
+  }
+]
